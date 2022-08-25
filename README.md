@@ -3,4 +3,4 @@ usado biblioteca react-qr-code e qrcode, além do uso de useState para troca
 dinâmica dos dados inseridos.
 link de acesso:
 
-https://fabiocosta123.github.io/gerador_qrcode
+https://fabiocosta123.github.io/gerador_qrcode/
